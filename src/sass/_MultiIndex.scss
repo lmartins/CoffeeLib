@@ -1,0 +1,21 @@
+
+
+.MultiIndex{
+  overflow: hidden;
+  display: table;
+  border: 1px solid #ccc;
+  ul{
+    list-style: none;
+    margin: 0;
+  }
+  > ul, > p{
+    display: table-cell;
+    padding: 1em;
+    border-right: 1px solid #ccc;
+  }
+
+  .current{
+    font-weight: bold;
+  }
+
+}

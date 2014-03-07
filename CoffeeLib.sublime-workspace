@@ -1,0 +1,3221 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"n",
+				"numToGet"
+			],
+			[
+				"modu",
+				"MODULE"
+			],
+			[
+				"set",
+				"setVal"
+			],
+			[
+				"m",
+				"myVar"
+			],
+			[
+				"pro",
+				"steal.production.js"
+			],
+			[
+				"mov",
+				"moviesData"
+			],
+			[
+				"img",
+				"imgsLen"
+			],
+			[
+				"slide",
+				"sliderWidth"
+			],
+			[
+				"slid",
+				"sliderWidth"
+			],
+			[
+				"im",
+				"imgsLen"
+			],
+			[
+				"sli",
+				"sliderWidth"
+			],
+			[
+				"slider",
+				"sliderImages"
+			],
+			[
+				"arti",
+				"articleCenter"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"font",
+				"fontSize"
+			],
+			[
+				"cl",
+				"cl	Console Log"
+			],
+			[
+				"close",
+				"closeBtn"
+			],
+			[
+				"contact",
+				"contactForm"
+			],
+			[
+				"con",
+				"config"
+			],
+			[
+				"re",
+				"requestAnimationFrame"
+			],
+			[
+				"scri",
+				"scripts"
+			],
+			[
+				"j",
+				"jQuery_fallback"
+			],
+			[
+				"js",
+				"jsFolder"
+			],
+			[
+				"JS",
+				"JS_COMPONENTS"
+			],
+			[
+				"compo",
+				"componentName"
+			],
+			[
+				"res",
+				"resetLines"
+			],
+			[
+				"length",
+				"length"
+			],
+			[
+				"scro",
+				"scrollTop"
+			],
+			[
+				"CSS",
+				"CSS_DEST"
+			],
+			[
+				"style",
+				"stylesheet"
+			],
+			[
+				"svg",
+				"svgDoc"
+			],
+			[
+				"get",
+				"getElementsByTagName"
+			],
+			[
+				"path",
+				"pathLines"
+			],
+			[
+				"pat",
+				"pathLines"
+			],
+			[
+				"if",
+				"ifun	immediate function"
+			],
+			[
+				"fun",
+				"fun	Function"
+			],
+			[
+				"ls",
+				"lis	list-style"
+			],
+			[
+				"w",
+				"owlcarousel/"
+			],
+			[
+				"_fe",
+				"_features-notifications.scss"
+			],
+			[
+				"_",
+				"_features-measurement.scss"
+			],
+			[
+				"ow",
+				"_owl.theme.scss"
+			],
+			[
+				"pl",
+				"plugins/"
+			],
+			[
+				"o",
+				"owl.carousel.js"
+			],
+			[
+				"a",
+				"a	<a>"
+			],
+			[
+				"anim",
+				"anim	animation"
+			],
+			[
+				"s",
+				"src/"
+			],
+			[
+				"_re",
+				"_retina.scss"
+			],
+			[
+				"wsn",
+				"whs-nw	white-space: nowrap;"
+			],
+			[
+				"ws",
+				"whs-nw	white-space: nowrap;"
+			],
+			[
+				"tw",
+				"tw-no	text-wrap: none;"
+			],
+			[
+				"se",
+				"selectorControl"
+			],
+			[
+				"bt",
+				"bt	border-top"
+			],
+			[
+				"hover",
+				"hoverLayout"
+			],
+			[
+				"my",
+				"my_scope"
+			],
+			[
+				"fu",
+				"fun	Function"
+			],
+			[
+				"css",
+				"cssmetrics"
+			],
+			[
+				"trans",
+				"transf	Transform"
+			],
+			[
+				"tra",
+				"trans	Transition"
+			],
+			[
+				"po",
+				"pos	Position"
+			],
+			[
+				"va",
+				"va-m	vertical-align: middle;"
+			],
+			[
+				"ws-n",
+				"whs-nw	white-space: nowrap;"
+			],
+			[
+				"red",
+				"red	debug"
+			],
+			[
+				"tran",
+				"trans	Transition"
+			],
+			[
+				"bl",
+				"blr	border-left-radius"
+			],
+			[
+				"bb",
+				"bbr	border-bottom-radius"
+			],
+			[
+				"redi",
+				"redirecionado"
+			],
+			[
+				"excl",
+				"excluídas"
+			],
+			[
+				"v",
+				"valign	Attr"
+			],
+			[
+				"to",
+				"tov	text-overflow: ${ellipsis};"
+			],
+			[
+				"mh",
+				"mih	min-height"
+			],
+			[
+				"vat",
+				"va-t	vertical-align: top;"
+			],
+			[
+				"stye",
+				"style	Attr"
+			],
+			[
+				"st",
+				"style	<style>"
+			],
+			[
+				"Clima",
+				"climacon"
+			],
+			[
+				"pr",
+				"pr	padding-right"
+			],
+			[
+				"bg",
+				"bg-n	background: none;"
+			],
+			[
+				"tr",
+				"trans	Transition"
+			],
+			[
+				"btr",
+				"btr	border-top-radius"
+			],
+			[
+				"fle",
+				"flexall	flexbox-all"
+			],
+			[
+				"pos",
+				"pos	Position"
+			],
+			[
+				"flex",
+				"flexie	flexbox-IE"
+			],
+			[
+				"toggle",
+				"toggleClass"
+			],
+			[
+				"en",
+				"entityBarCtrl"
+			],
+			[
+				"hr",
+				"href	Attr"
+			],
+			[
+				"ov",
+				"ov-v	overflow: visible;"
+			],
+			[
+				"jq",
+				"jqpagination"
+			],
+			[
+				"intro",
+				"introJs"
+			],
+			[
+				"bgr",
+				"bgr-n	background-repeat: no-repeat;"
+			],
+			[
+				"cm",
+				"command"
+			],
+			[
+				"c",
+				"ctrl"
+			],
+			[
+				"imp",
+				"@import	@import url(${0});"
+			],
+			[
+				"tal",
+				"ta-l	text-align: left;"
+			],
+			[
+				"value",
+				"valuePairs"
+			],
+			[
+				"load",
+				"loadCss(url)"
+			],
+			[
+				"br",
+				"br	border-right"
+			],
+			[
+				"moda",
+				"modalmanager"
+			],
+			[
+				"boo",
+				"bootstrap-tab"
+			],
+			[
+				"btc",
+				"bdtc	border-top-color: #${1:000};"
+			],
+			[
+				"dom",
+				"domReady"
+			],
+			[
+				"domre",
+				"domready"
+			],
+			[
+				"app",
+				"appendChild"
+			],
+			[
+				"cre",
+				"createElement"
+			],
+			[
+				"ma",
+				"matchingElements	[]"
+			],
+			[
+				"all",
+				"allElements	(?)"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"comm",
+				"commentInfo"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"gridw",
+				"gridw-4"
+			],
+			[
+				"mw",
+				"miw	min-width"
+			],
+			[
+				"greetA",
+				"greetAnAdultMale(name)"
+			],
+			[
+				"ran",
+				"randomNum"
+			],
+			[
+				"rando",
+				"randomNum	(num)"
+			],
+			[
+				"grid",
+				"gridw"
+			],
+			[
+				"col",
+				"colspan	Attr"
+			],
+			[
+				"p",
+				"p	padding"
+			],
+			[
+				"transp",
+				"transparentize"
+			],
+			[
+				"jquery",
+				"jqueryui"
+			],
+			[
+				"dt",
+				"d:tb	display:table"
+			],
+			[
+				"drop",
+				"dropdown"
+			],
+			[
+				"bs",
+				"bxsh-r	box-shadow: ${1:inset }${2:hoff} ${3:voff} ${4:blur} ${5:spread }rgb(${6:0}, ${7:0}, ${8:0});"
+			],
+			[
+				"grunt",
+				"grunticon"
+			],
+			[
+				"offs",
+				"offset"
+			],
+			[
+				"off",
+				"offset"
+			],
+			[
+				"modalmana",
+				"modalManager"
+			],
+			[
+				"contro",
+				"controllers"
+			],
+			[
+				"contr",
+				"controllers"
+			],
+			[
+				"Button",
+				"ButtonsController"
+			],
+			[
+				"reso",
+				"resolveController"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/coffee/01patterns/module02.coffee",
+			"settings":
+			{
+				"buffer_size": 478,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "01patterns/ModulePattern.html",
+			"settings":
+			{
+				"buffer_size": 1574,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "gulpfile.js",
+			"settings":
+			{
+				"buffer_size": 2994,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "build/js/01patterns/module.js",
+			"settings":
+			{
+				"buffer_size": 650,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "build/js/01patterns/module02.js",
+			"settings":
+			{
+				"buffer_size": 585,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"termin",
+				"Preferences: Terminal Key Bindings – Default"
+			],
+			[
+				"conf",
+				"FindKeyConflicts: Command Search"
+			],
+			[
+				"confl",
+				"FindKeyConflicts: Command Search"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"rena",
+				"File: Rename"
+			],
+			[
+				"ren",
+				"File: Rename"
+			],
+			[
+				"git init",
+				"Git: Init"
+			],
+			[
+				"check",
+				"Git: Checkout"
+			],
+			[
+				"chec",
+				"Git: Checkout"
+			],
+			[
+				"del",
+				"File: Delete"
+			],
+			[
+				"dele",
+				"File: Delete"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"html",
+				"Set Syntax: HTML5"
+			],
+			[
+				"todo",
+				"TodoReview: Generate List"
+			],
+			[
+				"tod",
+				"TodoReview: Generate List"
+			],
+			[
+				"upgrade",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"color",
+				"Color Switch: Install Scheme"
+			],
+			[
+				"sch",
+				"Schemr: Previous favorite scheme"
+			],
+			[
+				"schem",
+				"Schemr: List favorite schemes"
+			],
+			[
+				"schemr",
+				"Schemr: List all schemes"
+			],
+			[
+				"color se",
+				"Color Switch: Install Scheme"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"coffee",
+				"Coffee: Quick Run Bar"
+			],
+			[
+				"che",
+				"Git: Checkout"
+			],
+			[
+				"chek",
+				"Git: Checkout"
+			],
+			[
+				"new bra",
+				"Git: Checkout New Branch"
+			],
+			[
+				"cehc",
+				"Git: Checkout"
+			],
+			[
+				"cehck",
+				"Git: Checkout"
+			],
+			[
+				"dupl",
+				"File: Duplicate"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"de",
+				"File: Delete"
+			],
+			[
+				"bower i",
+				"Bower: Install"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"renam",
+				"File: Rename"
+			],
+			[
+				"instl",
+				"Bower: Install"
+			],
+			[
+				"bower ",
+				"Bower: Install"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"bower",
+				"Bower: Install"
+			],
+			[
+				"bowe",
+				"Bower: Install"
+			],
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"termi",
+				"Preferences: Terminal Key Bindings – User"
+			],
+			[
+				"LIST",
+				"Package Control: List Packages"
+			],
+			[
+				"bower ins",
+				"Bower: Install"
+			],
+			[
+				"bwer",
+				"Bower: Install"
+			],
+			[
+				"bow",
+				"Bower: Install"
+			],
+			[
+				"bower install",
+				"Bower: Install"
+			],
+			[
+				"tag",
+				"Tag: Auto-Format Tags on Selection"
+			],
+			[
+				"sor",
+				"Sort Lines"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"brows",
+				"Preferences: Browse Packages"
+			],
+			[
+				"rien",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"log",
+				"Git: Quick Log"
+			],
+			[
+				"blame",
+				"Git: Blame"
+			],
+			[
+				"bla",
+				"Git: Blame"
+			],
+			[
+				"upp",
+				"Convert Case: Upper Case"
+			],
+			[
+				"pull",
+				"Git: Pull Current Branch"
+			],
+			[
+				"bower s",
+				"Bower: Discover packages"
+			],
+			[
+				"upgr",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"keyma",
+				"Keymaps: Find a keymap for..."
+			],
+			[
+				"css",
+				"Sort via CSScomb"
+			],
+			[
+				"so",
+				"Sort Lines"
+			],
+			[
+				"sort",
+				"Sort Lines"
+			],
+			[
+				"term",
+				"Preferences: Terminal Key Bindings – User"
+			],
+			[
+				"lower",
+				"Convert Case: Lower Case"
+			],
+			[
+				"low",
+				"Convert Case: Lower Case"
+			],
+			[
+				"upgra",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"ind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"upper",
+				"Convert Case: Upper Case"
+			],
+			[
+				"UPP",
+				"Convert Case: Upper Case"
+			],
+			[
+				"shcem",
+				"Schemr: Add current scheme to favorites"
+			],
+			[
+				"sche",
+				"Schemr: Add current scheme to favorites"
+			],
+			[
+				"grunt",
+				"Grunt"
+			],
+			[
+				"",
+				"BracketHighlighter: Remove Brackets"
+			],
+			[
+				"DELE",
+				"File: Delete"
+			],
+			[
+				"ta",
+				"Tag: Auto-Format Tags on Selection"
+			],
+			[
+				"tga",
+				"Tag: Close Tag"
+			],
+			[
+				"terminal",
+				"Preferences: Terminal Key Bindings – Default"
+			],
+			[
+				"blam",
+				"Git: Blame"
+			],
+			[
+				"alig",
+				"Preferences: Alignment Key Bindings – User"
+			],
+			[
+				"push",
+				"Git: Push Current Branch"
+			],
+			[
+				"uppe",
+				"Convert Case: Upper Case"
+			],
+			[
+				"packa",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"type",
+				"Typewriter: Scrolling Mode (Toggle)"
+			],
+			[
+				"publi",
+				"Legit: Publish"
+			],
+			[
+				"hotfi",
+				"Git-flow: Hotfix Start"
+			],
+			[
+				"hot",
+				"Git-flow: Hotfix Start"
+			],
+			[
+				"keys",
+				"FindKeyConflicts: Command Search"
+			],
+			[
+				"feature",
+				"Git-flow: Feature Finish"
+			],
+			[
+				"featu",
+				"Git-flow: Feature Finish"
+			],
+			[
+				"featue",
+				"Git-flow: Feature Finish"
+			],
+			[
+				"REIN",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"ch",
+				"Git: Checkout"
+			],
+			[
+				"feat",
+				"Git-flow: Feature Start"
+			],
+			[
+				"lowe",
+				"Convert Case: Lower Case"
+			],
+			[
+				"binder",
+				"FileBinder: Choose a Binder"
+			],
+			[
+				"case",
+				"Convert Case: Lower Case"
+			],
+			[
+				"bonde",
+				"FileBinder: Remove a Binder"
+			],
+			[
+				"make",
+				"SnippetMaker: Make Snippet"
+			],
+			[
+				"gs",
+				"Git: Status"
+			],
+			[
+				"cas",
+				"Convert Case: Upper Case"
+			],
+			[
+				"LOG",
+				"Git: Quick Log"
+			],
+			[
+				"keyb",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"fea",
+				"Git-flow: Feature Finish"
+			],
+			[
+				"sync",
+				"Legit: Sync"
+			],
+			[
+				"sy",
+				"Legit: Sync"
+			],
+			[
+				"chc",
+				"Git: Checkout"
+			],
+			[
+				"chce",
+				"Git: Checkout"
+			],
+			[
+				"gitflow",
+				"Git-flow: Feature Start"
+			],
+			[
+				"syn",
+				"Legit: Sync"
+			],
+			[
+				"sybc",
+				"Set Syntax: Objective-C"
+			],
+			[
+				"gl",
+				"Git: Log"
+			],
+			[
+				"typ",
+				"Typewriter: Scrolling Mode (Toggle)"
+			],
+			[
+				"ty",
+				"Typewriter: All Modes (Toggle)"
+			],
+			[
+				"gb",
+				"Git: Blame"
+			],
+			[
+				"move",
+				"MoveText: Move Up"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML5"
+			],
+			[
+				"git",
+				"Git: Blame"
+			],
+			[
+				"c",
+				"Git: Checkout"
+			],
+			[
+				"g",
+				"Git: Status"
+			],
+			[
+				"bro",
+				"Preferences: Browse Packages"
+			],
+			[
+				"browse",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 579.0
+	},
+	"console":
+	{
+		"height": 216.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/luismartins/Sites/LAB/CoffeeLib/gulpfile.coffee",
+		"/Users/luismartins/Sites/LAB/CoffeeLib/src/sass/main.scss",
+		"/Users/luismartins/Sites/LAB/CoffeeLib/src/coffee/01patterns/module02.coffee",
+		"/Users/luismartins/Library/Application Support/Sublime Text 3/Packages/Terminal/Default (OSX).sublime-keymap",
+		"/Users/luismartins/Sites/LAB/CoffeeLib/gulpfile.js",
+		"/Users/luismartins/Sites/LAB/CoffeeLib/.gitignore",
+		"/Users/luismartins/Library/Application Support/Sublime Text 3/Packages/User/FindKeyConflicts.sublime-settings",
+		"/Users/luismartins/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/luismartins/Sites/LAB/tuts/ObjectOrientedJS/src/sass/main.scss",
+		"/Users/luismartins/Sites/LAB/tuts/ObjectOrientedJS/Lesson02 - Objects and Factory Functions.html",
+		"/Users/luismartins/Sites/LAB/tuts/ObjectOrientedJS/gulpfile.coffee",
+		"/Users/luismartins/Sites/LAB/tuts/ObjectOrientedJS/Lesson01.html",
+		"/Users/luismartins/Sites/LAB/tuts/ObjectOrientedJS/bower.json",
+		"/Users/luismartins/Sites/LAB/tuts/30daysjquery/gulpfile.coffee",
+		"/Users/luismartins/Sites/LAB/tuts/30daysjquery/gulpfile.js",
+		"/Users/luismartins/Sites/LAB/tuts/30daysjquery/build/js/lesson22.js",
+		"/Users/luismartins/Sites/LAB/tuts/30daysjquery/build/js/lesson18.js",
+		"/Users/luismartins/Sites/LAB/tuts/30daysjquery/Lesson18-EachTemplating.html",
+		"/Users/luismartins/Sites/LAB/tuts/30daysjquery/build/js/lesson20.js",
+		"/Users/luismartins/Sites/LAB/tuts/30daysjquery/Lesson22-CustomEvents.html",
+		"/Users/luismartins/Sites/idomlive/js/source/idomlive/idomlive.js",
+		"/Users/luismartins/Sites/idomlive/js/gulpfile.coffee",
+		"/Users/luismartins/Sites/idomlive/js/package.json",
+		"/Users/luismartins/Sites/idomlive/index.php",
+		"/Users/luismartins/Sites/idomlive/themes/idomlive_desktop/views/app/layouts/container.php",
+		"/Users/luismartins/Sites/LAB/JavascriptMVC/src/sass/main.scss",
+		"/Users/luismartins/Sites/LAB/JavascriptMVC/package.json",
+		"/Users/luismartins/Sites/LAB/JavascriptMVC/gulpfile.coffee",
+		"/Users/luismartins/Sites/LAB/JavascriptMVC/gulpfile.js",
+		"/opt/multiadmin/protected/components/HookManager.php",
+		"/Users/luismartins/Sites/webipack001/.gitignore",
+		"/multiadmin",
+		"/Users/luismartins/Sites/webipack011/themes/front/css/main.css",
+		"/Users/luismartins/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/luismartins/Sites/LAB/tuts/30daysjquery/Lesson25-PHP-part1.html",
+		"/Users/luismartins/Sites/LAB/tuts/30daysjquery/src/coffee/lesson25.coffee",
+		"/Users/luismartins/Sites/LAB/tuts/30daysjquery/src/coffee/lesson24.coffee",
+		"/Users/luismartins/Sites/LAB/tuts/30daysjquery/Lesson24-load.php",
+		"/Users/luismartins/Sites/LAB/tuts/30daysjquery/Lesson24-ServerSide.html",
+		"/Users/luismartins/Sites/LAB/tuts/30daysjquery/package.json",
+		"/Users/luismartins/Sites/LAB/tuts/30daysjquery/data.txt",
+		"/Users/luismartins/Sites/LAB/tuts/30daysjquery/Lesson23-LoadingAsync.html",
+		"/Users/luismartins/Sites/LAB/tuts/30daysjquery/Lesson23-partial1.html",
+		"/Users/luismartins/Sites/LAB/tuts/30daysjquery/src/coffee/lesson20.coffee",
+		"/Users/luismartins/Sites/LAB/tuts/30daysjquery/src/coffee/lesson22.coffee",
+		"/Users/luismartins/Sites/LAB/tuts/30daysjquery/Lesson21-Filtering.html",
+		"/Users/luismartins/Sites/LAB/tuts/30daysjquery/Lesson20-TwitterAPI.html",
+		"/Users/luismartins/Sites/LAB/tuts/30daysjquery/src/coffee/lesson19.coffee",
+		"/Users/luismartins/Sites/LAB/tuts/30daysjquery/coffeelint.json",
+		"/Users/luismartins/Sites/LAB/tuts/30daysjquery/build/js/lesson19.js",
+		"/Users/luismartins/Sites/LAB/tuts/30daysjquery/Lesson19-Handlebars.html",
+		"/Users/luismartins/Sites/LAB/tuts/30daysjquery/data/teste.json",
+		"/Users/luismartins/Sites/LAB/tuts/30daysjquery/build/js/ThisKeyword.js",
+		"/Users/luismartins/Sites/LAB/tuts/30daysjquery/bower.json",
+		"/Users/luismartins/Sites/LAB/tuts/30daysjquery/src/vendor/jquery/dist/jquery.js",
+		"/Users/luismartins/Sites/LAB/tuts/30daysjquery/src/coffee/Slider2.coffee",
+		"/Users/luismartins/Sites/LAB/tuts/30daysjquery/src/sass/main.scss",
+		"/Users/luismartins/Sites/LAB/tuts/30daysjquery/build/js/Slider2.js",
+		"/Users/luismartins/Sites/LAB/tuts/30daysjquery/Slider2.html",
+		"/Users/luismartins/Sites/LAB/tuts/30daysjquery/build/js/SlidesStructure.js",
+		"/Users/luismartins/Library/Application Support/Sublime Text 3/Packages/User/TodoReview.sublime-settings",
+		"/Users/luismartins/Library/Application Support/Sublime Text 3/Packages/TodoReview/TodoReview.sublime-settings",
+		"/Users/luismartins/Sites/LAB/tuts/30daysjquery/src/coffee/Slider.coffee",
+		"/Users/luismartins/Sites/LAB/tuts/30daysjquery/gulpfile1.js",
+		"/Users/luismartins/Sites/LAB/tuts/30daysjquery/build/js/Slider.js",
+		"/Users/luismartins/Sites/LAB/tuts/30daysjquery/build/js/Slider.js.map",
+		"/Users/luismartins/Sites/LAB/tuts/30daysjquery/build/js/Slider2.js.map",
+		"/Users/luismartins/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/luismartins/Sites/LAB/tuts/30daysjquery/Slider.html",
+		"/Users/luismartins/Library/Application Support/Sublime Text 3/Packages/Emmet/Default (OSX).sublime-keymap",
+		"/Users/luismartins/Sites/LAB/tuts/30daysjquery/component.json",
+		"/Users/luismartins/Sites/LAB/tuts/30daysjquery/build/js/BindLiveDelegate.js",
+		"/Users/luismartins/Sites/LAB/tuts/30daysjquery/build/js/BindLiveDelegate.js.map",
+		"/Users/luismartins/Sites/LAB/tuts/30daysjquery/src/vendor/animate.css/source/bouncing_entrances/bounceInLeft.css",
+		"/Users/luismartins/Sites/LAB/tuts/30daysjquery/src/vendor/animate.css/source/bouncing_entrances/bounceInUp.css",
+		"/Users/luismartins/Sites/LAB/tuts/30daysjquery/components/visionmedia-move.js/index.js",
+		"/Users/luismartins/Sites/LAB/tuts/30daysjquery/build/js/HomeworkSolutions.js",
+		"/Users/luismartins/Sites/LAB/tuts/30daysjquery/src/coffee/HomeworkSolutions.coffee",
+		"/Users/luismartins/Sites/LAB/tuts/30daysjquery/src/vendor/jquery/src/var/hasOwn.js",
+		"/Users/luismartins/Sites/LAB/tuts/30daysjquery/src/coffee/Animate.coffee",
+		"/Users/luismartins/Sites/LAB/tuts/30daysjquery/build/js/Animate.js",
+		"/Users/luismartins/Sites/LAB/tuts/30daysjquery/src/vendor/jquery/src/css/addGetHookIf.js",
+		"/Users/luismartins/Sites/LAB/tuts/30daysjquery/build/js/EffectSpeeds.js",
+		"/Users/luismartins/Sites/LAB/tuts/30daysjquery/build/js/events101.js",
+		"/Users/luismartins/Sites/LAB/tuts/30daysjquery/src/vendor/animate.css/source/sliders/slideInLeft.css",
+		"/Users/luismartins/Sites/LAB/tuts/30daysjquery/src/vendor/jquery/src/jquery.js",
+		"/Users/luismartins/Sites/LAB/tuts/30daysjquery/build/vendor/jquery.min.js",
+		"/Users/luismartins/Sites/LAB/tuts/30daysjquery/events101.html",
+		"/Users/luismartins/Sites/LAB/tuts/30daysjquery/src/coffee/events101.coffee",
+		"/Users/luismartins/Sites/LAB/tuts/30daysjquery/build/js/events201.js",
+		"/Users/luismartins/Sites/LAB/tuts/30daysjquery/events201.html",
+		"/Users/luismartins/Sites/LAB/tuts/30daysjquery/src/coffee/events201.coffee",
+		"/Users/luismartins/Sites/LAB/tuts/30daysjquery/build/css/main.css",
+		"/Users/luismartins/Sites/LAB/tuts/30daysjquery/src/sass/events101-night.scss",
+		"/Users/luismartins/Library/Application Support/Sublime Text 3/Packages/User/CursorRuler.sublime-settings",
+		"/Users/luismartins/Sites/LAB/tuts/30daysjquery/src/vendor/animate.css/source/rotating_entrances/rotateInUpLeft.css",
+		"/Users/luismartins/Sites/LAB/tuts/30daysjquery/src/vendor/animate.css/source/rotating_exits/rotateOutUpLeft.css",
+		"/Users/luismartins/Sites/LAB/tuts/30daysjquery/build/css/events101.css",
+		"/Users/luismartins/Sites/wipmobile/themes/front/gulpfile.js",
+		"/Users/luismartins/Sites/farm-control-novo/.src/gulpfile.js",
+		"/Users/luismartins/Sites/farm-control-novo/.src/templates/layouts/default.hbs",
+		"/Users/luismartins/Sites/farm-control-novo/.src/coffee/app.coffee",
+		"/Users/luismartins/Sites/farm-control-novo/.src/sass/app/components/_Nav.scss",
+		"/Users/luismartins/Sites/farm-control-novo/.src/pages/index.hbs",
+		"/Users/luismartins/Sites/farm-control-novo/.src/pages/PT/features/control.hbs",
+		"/Users/luismartins/Sites/farm-control-novo/.src/coffee/components/connectors.coffee",
+		"/Users/luismartins/Sites/farm-control-novo/.src/coffee/components/connectors.old.coffee",
+		"/Users/luismartins/Sites/farm-control-novo/.src/coffee/components/connectors.coffee1.coffee",
+		"/Users/luismartins/Sites/farm-control-novo/.src/pages/PT/features/index.hbs",
+		"/Users/luismartins/Sites/farm-control-novo/.src/pages/PT/features/measurement.hbs",
+		"/Users/luismartins/Sites/farm-control-novo/.src/pages/PT/features/notifications.hbs",
+		"/Users/luismartins/Sites/farm-control-novo/.src/pages/PT/features/reports.hbs",
+		"/Users/luismartins/Sites/farm-control-novo/.src/pages/PT/features/rules.hbs",
+		"/Users/luismartins/Sites/farm-control-novo/.src/coffee/modules/entryAnimations.coffee",
+		"/Users/luismartins/Sites/farm-control-novo/.src/templates/partials/Footer.hbs",
+		"/Users/luismartins/Sites/farm-control-novo/.src/vendor/requirejs/tests/depEmpty.html",
+		"/Users/luismartins/Sites/farm-control-novo/.src/vendor/requirejs/tests/i18n/testModule.js",
+		"/Users/luismartins/Sites/farm-control-novo/.src/vendor/requirejs/tests/text/textOnError.html",
+		"/Users/luismartins/Sites/farm-control-novo/.src/pages/PT/contact/try-demo.hbs",
+		"/Users/luismartins/Sites/farm-control-novo/.src/coffee/app2.coffee",
+		"/Users/luismartins/Sites/farm-control-novo/.src/coffee/components/sliders.coffee",
+		"/Users/luismartins/Sites/farm-control-novo/.src/bower.json",
+		"/Users/luismartins/Library/Application Support/Sublime Text 3/Packages/FileBrowser/dired.sublime-settings",
+		"/Users/luismartins/Library/Application Support/Sublime Text 3/Packages/FileBrowser/Default.sublime-keymap",
+		"/Users/luismartins/Sites/farm-control-novo/.src/Gruntfile.js",
+		"/Users/luismartins/Sites/farm-control-novo/.src/sass/main.scss",
+		"/Users/luismartins/Sites/farm-control-novo/.src/sass/app/views/_features-reports.scss",
+		"/Users/luismartins/Sites/farm-control-novo/.src/sass/app/components/_Page.scss"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 106.0,
+		"where_history":
+		[
+			"-source/mxui/, -build/",
+			"-source/mxui/",
+			"",
+			"coffee",
+			"js",
+			"pages/",
+			"sass",
+			"gradient",
+			"pages/",
+			"sass/",
+			"pages/",
+			"sass/",
+			"js/vendor/bootstrap/less/",
+			"js/vendor/bootstrap/",
+			"sass/app/views/",
+			"pages/",
+			"pages",
+			"sass/",
+			"",
+			"pages/",
+			"",
+			"*.scss",
+			"",
+			"views/app/",
+			"views/app/sys/devices/types/",
+			"views/app/",
+			"views/",
+			"views/app/",
+			"sass/",
+			"*settings.scss",
+			"*.scss",
+			".scss",
+			"settings*\\.scss",
+			"settings*.scss",
+			"settings*",
+			"",
+			"views/admin/",
+			"sass/",
+			"views/ -sass/",
+			"views/",
+			"sass/",
+			"styleguide/, -sass/",
+			"views/, -sass/",
+			"views/, styleguide/*.hbs, -sass/",
+			"sass/",
+			"views/, -sass/",
+			"views/, styleguide/*.hbs, -sass/",
+			"styleguide/*.hbs",
+			"views/, styleguide/, -sass/",
+			"sass/",
+			"views/, styleguide/, -sass/",
+			"styleguide/",
+			"views/, -sass/",
+			"sass/",
+			"views/, -sass/",
+			"sass/",
+			"views/, -sass/",
+			"views/sys/, -sass/",
+			"styleguide/*.hbs",
+			"views/, -sass/",
+			"styleguide/",
+			"sass/",
+			"views/admin/, -sass/",
+			"views/, -sass/",
+			"sass/",
+			"views/, -sass/",
+			"sass/",
+			"views/, -sass/",
+			"views/**/list.php, -sass/",
+			"sass/",
+			"views/, -sass/",
+			"views/**/list.php, -sass/",
+			"views/, -sass/",
+			"views/**/list.php, -sass/",
+			"views/, -sass/",
+			"sass/",
+			"views/, -sass/",
+			"sass/",
+			"views/, -sass/",
+			"sass/",
+			"views/, -sass/",
+			"sass/",
+			"views/, -sass/",
+			"sass/",
+			"views/, -sass/",
+			"sass/",
+			"views/, -sass/",
+			"sass/",
+			"views/, -sass/",
+			"sass/",
+			"views/, -sass/",
+			"sass/",
+			"views/, -sass/",
+			"sass/",
+			"views/, -sass/",
+			"sass/",
+			"views/, -sass/",
+			"sass/",
+			"views/, -sass/",
+			"views/admin/, -sass/",
+			"sass/",
+			"views/, -sass/",
+			"views/admin/",
+			"sass/",
+			"views/, -sass/",
+			"sass/",
+			"views/, -sass/",
+			"sass/",
+			"views/app/entity/, -sass/",
+			"views/entity/, -sass/",
+			"views/, -sass/",
+			"sass/",
+			"views/, -sass/",
+			"sass/",
+			"views/, -sass/",
+			"sass/",
+			"views/, -sass/",
+			"sass/",
+			"views/, -sass/",
+			"",
+			"sass/",
+			"views/pay/, -sass/",
+			"views/, -sass/",
+			"sass/",
+			"views/, -sass/",
+			"sass/",
+			"views/, -sass/",
+			"sass/"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"Lesson 01 - Primitives and Objects",
+			"Lesson 01",
+			"Lesson 02 - Plugin Shell",
+			"Lesson 24 - Server Side",
+			"mxui",
+			"JS",
+			"COFFEE",
+			"captcha",
+			"Lesson 24 - Server Side",
+			"data",
+			"HTML_SRC",
+			"COFFEE_DST",
+			"COFFEE_SRC",
+			"SASS_DST",
+			"SASS_SRC",
+			"COFFEE_SRC",
+			"_DEST",
+			"_SOURCE",
+			"Lesson 23 - Loading Async",
+			"Lesson 22 - Custom Events and the Observer Pattern",
+			"Filtering with jQuery.grep",
+			"Lesson 21 - Filtering with jQuery.grep",
+			"Lesson 20 - Twitter API",
+			"Lesson 19 - Handlebars",
+			"unless",
+			"Lesson 18 - Each and Templating",
+			"each:",
+			"Slider2 - Prototypal Inheritance",
+			"self",
+			"(",
+			")",
+			"(",
+			"gulpfile",
+			"owlControls",
+			"buildControls",
+			"@current",
+			"Slider",
+			"ctrl+w",
+			"wrap",
+			"abbreviation",
+			"wrap",
+			"Slider-image",
+			"Slider",
+			"Slider-images",
+			"Slider",
+			"Lorem",
+			"action",
+			"600",
+			"350",
+			"HomeWork Solutions",
+			"Animate",
+			"30",
+			"textBtn",
+			"Effect Speeds",
+			"This Keyword",
+			"Slides and Structure",
+			"Bind Live Delegate",
+			"Events 201",
+			"plumber",
+			"101",
+			"FARM",
+			" =",
+			"Plugin",
+			"Connector",
+			"u-tableCell",
+			"309",
+			"411",
+			"527",
+			"require",
+			"js/",
+			"livereload",
+			"coffee",
+			"JS_CONCAT_TARGET",
+			"fireWith",
+			"CSS_DEST",
+			"t15",
+			"JS_DEST",
+			"JS_SOURCE",
+			"Measurement",
+			"id=\"Line\"",
+			"376",
+			"592",
+			"reports",
+			"Reports",
+			"reports",
+			"notifications",
+			"Mobility",
+			"mobility",
+			"Notifications",
+			"notifications",
+			"id=\"Line\"",
+			"#EC6A23",
+			"id=\"Line\"",
+			"val-",
+			"run",
+			"easy_motion",
+			"Form-input",
+			"input",
+			"/ FarmControl.com",
+			"f-control-padding",
+			"margin",
+			"conca",
+			"sass",
+			"data-picture",
+			"measurement",
+			"font-weight: 100;",
+			"Button--inline",
+			"Measurement",
+			"Notifications",
+			"notifications",
+			"both",
+			"backwards",
+			"data-behaviour=\"entryAnimation\"",
+			"$base-spacing-unit",
+			"@mixin link-colors",
+			"@minxin link-colors",
+			"link-colors",
+			"clearfix",
+			"\"#D4D4D4\"",
+			"></path>",
+			"id=\"Line\" sketch:type=\"MSShapeGroup\"",
+			"id=\"Line\"",
+			" sketch:type=\"MSShapeGroup\"",
+			"allMods",
+			"pathLines",
+			"path",
+			"conca",
+			"lazyOwl"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"/ Farmcontrol",
+			"",
+			"Slider-item",
+			"Picto",
+			"",
+			"ListOptions-search",
+			"ListOptions-filter",
+			"idl-widgets-container",
+			"Button Button--icon is-active",
+			"sgGrid u-cf\"",
+			"Widget--w4",
+			"Widget--w3",
+			"Widget--w2",
+			"Widget--w1",
+			"Widget",
+			"sg-Element",
+			"Widget-w4h4",
+			"Widget-w3h1",
+			"Widget-w2h2",
+			"Widget-w2h1",
+			"Widget-w1h4",
+			"Widget-w1h3",
+			"Widget-w1h2",
+			"Widget-w1h1",
+			"InlineToggleFeature",
+			"InlineToggle",
+			"DeviceControl-status",
+			"DeviceControl-RGBstatus",
+			"../../styleguide/js/",
+			"../../styleguide-src/js/",
+			"FormRow",
+			"grid-",
+			"u-iconH3",
+			"ImageLibrary",
+			"Widget-layout0",
+			"styleguide/",
+			"Widget--rule",
+			"Widget",
+			"DeviceControl-OnOffGroup",
+			"DeviceReadings",
+			"DeviceControls",
+			"deviceControls",
+			"deviceReadings",
+			"deviceView",
+			"deviceDetails-controlPanel",
+			"DeviceControl",
+			"Stats",
+			"GroupOnOffControl",
+			"$space-large",
+			"$space-medium",
+			"$space-small",
+			"Please save changes before moving this widget",
+			"/images/system/layout/ajax-loaderpq.gif",
+			"PageNav-numbers",
+			".Button",
+			"NavHeader",
+			"Button--primary",
+			"@import '../moo/_settings.scss';",
+			"class=\"Button",
+			"Button--primaryAction",
+			"Payment History",
+			"Button--iconTop",
+			"Button--iconsTop",
+			"ControlGroup",
+			"ScreenOptions",
+			"-btn",
+			"idl-entityapp-toggle-btn",
+			"filterButton",
+			"ButtonGroup",
+			"Button",
+			"Button--mini",
+			"Button--inline",
+			"Button--small",
+			"Button--big",
+			"Button--large",
+			"Button--mutedDanger",
+			"Button--muted",
+			"Button--danger",
+			"Button--dark",
+			"Button--primaryAction",
+			"Button--primary",
+			"Button",
+			"Button--mutedDanger",
+			"Button--inline",
+			"ButtonGroup",
+			"Button--big",
+			"Button--dark",
+			"Button--icon",
+			"Button--large",
+			"Button--primary",
+			"class=\"Button Button--primaryAction\"",
+			"Nav Nav--sequential",
+			"WidgetSelector",
+			"detailHeader",
+			"PageNav",
+			"RootNav",
+			"PageNav",
+			"class=\"detailHeader\"",
+			"DataList--boxedRows",
+			"DataList",
+			"u-data-numerical",
+			"DataTable-filter",
+			"DataTable-sort",
+			"DataTable--borderedRows",
+			"DataTable--borderedFull",
+			"DataTable--boxedRows",
+			"DataTable",
+			"Tabs-pane",
+			"Tabs-content",
+			"Tabs",
+			"u-flex-Astretch",
+			"FormRow-options",
+			"class=\"FormInput-preview\"",
+			"InputAppend-addon",
+			"InputAppend",
+			"FormInput",
+			"FormRow--inline",
+			"FormRow",
+			"grid-",
+			"dropdown--atRight",
+			"Tabs-content",
+			"Tabs-nav idl-tabsNav",
+			"Tabs-pane",
+			"Tabs-content",
+			"<div class=\"modal-body modal-body-tabbed\">",
+			"idl-tabsNav",
+			"NavHeader",
+			"NavHeader-nav"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/coffee/01patterns/module02.coffee",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 478,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								187,
+								190
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"bs_sintax": "coffeescript",
+							"buffer_scroll_name": "abd449b2",
+							"history_list_is_closing": true,
+							"rulers":
+							[
+								50.8
+							],
+							"syntax": "Packages/Better CoffeeScript/CoffeeScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 30.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "01patterns/ModulePattern.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1574,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1543,
+								1543
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"bs_sintax": "html",
+							"buffer_scroll_name": "4fc0d517",
+							"is_xml": false,
+							"rulers":
+							[
+								2.8
+							],
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "gulpfile.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2994,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2948,
+								2948
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"bs_sintax": "javascript",
+							"buffer_scroll_name": "3745142e",
+							"rulers":
+							[
+								4.8
+							],
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 174.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 3,
+					"file": "build/js/01patterns/module.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 650,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								56,
+								56
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"bs_sintax": "javascript",
+							"buffer_scroll_name": "e8c7a89f",
+							"rulers":
+							[
+								0.8
+							],
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "build/js/01patterns/module02.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 585,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								476,
+								476
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"bs_sintax": "javascript",
+							"buffer_scroll_name": "1044e5bd",
+							"rulers":
+							[
+							],
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 48.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.5,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 233.0
+	},
+	"output.find_results":
+	{
+		"height": 134.0
+	},
+	"output.git-checkout":
+	{
+		"height": 112.0
+	},
+	"output.git-commit":
+	{
+		"height": 112.0
+	},
+	"output.git-flow-feature-finish":
+	{
+		"height": 112.0
+	},
+	"output.git-flow-feature-start":
+	{
+		"height": 112.0
+	},
+	"output.git-flow-hotfix-start":
+	{
+		"height": 112.0
+	},
+	"output.git-init":
+	{
+		"height": 150.0
+	},
+	"output.git-pull":
+	{
+		"height": 112.0
+	},
+	"output.git-push":
+	{
+		"height": 110.0
+	},
+	"output.legit-sync":
+	{
+		"height": 112.0
+	},
+	"output.shell_turtlestein":
+	{
+		"height": 0.0
+	},
+	"project": "CoffeeLib.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"module02",
+				"build/js/01patterns/module02.js"
+			],
+			[
+				"gulp",
+				"gulpfile.coffee"
+			],
+			[
+				"gul",
+				"gulpfile.js"
+			],
+			[
+				"module",
+				"build/js/01patterns/module.js"
+			],
+			[
+				"main",
+				"src/sass/main.scss"
+			],
+			[
+				"lesson02",
+				"build/js/lesson02.js"
+			],
+			[
+				"lesson25",
+				"build/js/lesson25.js"
+			],
+			[
+				"packa",
+				"package.json"
+			],
+			[
+				"lesson22",
+				"build/js/lesson22.js"
+			],
+			[
+				"less",
+				"Lesson22-CustomEvents.html"
+			],
+			[
+				"lesson20",
+				"src/coffee/lesson20.coffee"
+			],
+			[
+				"coff",
+				"gulpfile.coffee"
+			],
+			[
+				"lesson19",
+				"src/coffee/lesson19.coffee"
+			],
+			[
+				"lesso",
+				"build/js/lesson20.js"
+			],
+			[
+				"teste",
+				"data/teste.json"
+			],
+			[
+				"bower",
+				"bower.json"
+			],
+			[
+				"lesson",
+				"build/js/lesson18.js"
+			],
+			[
+				"jquery",
+				"src/vendor/jquery/dist/jquery.js"
+			],
+			[
+				"slider2",
+				"build/js/Slider2.js"
+			],
+			[
+				"slider",
+				"src/coffee/Slider2.coffee"
+			],
+			[
+				"home",
+				"src/coffee/HomeworkSolutions.coffee"
+			],
+			[
+				"animate",
+				"build/js/Animate.js"
+			],
+			[
+				"effect",
+				"build/js/EffectSpeeds.js"
+			],
+			[
+				"thiske",
+				"build/js/ThisKeyword.js"
+			],
+			[
+				"slide",
+				"build/js/SlidesStructure.js"
+			],
+			[
+				"gu",
+				"gulpfile.js"
+			],
+			[
+				"events",
+				"events201.html"
+			],
+			[
+				"pack",
+				"package.json"
+			],
+			[
+				"even",
+				"build/js/events201.js"
+			],
+			[
+				"event",
+				"src/coffee/events101.coffee"
+			],
+			[
+				"eve",
+				"build/js/events101.js"
+			],
+			[
+				"app",
+				"coffee/app.coffee"
+			],
+			[
+				"templates",
+				"templates/layouts/default.hbs"
+			],
+			[
+				"grunt",
+				"Gruntfile.js"
+			],
+			[
+				"page",
+				"sass/app/components/_Page.scss"
+			],
+			[
+				"rules.",
+				"pages/PT/features/rules.hbs"
+			],
+			[
+				"control-c",
+				"images/layout/Control-Connector.svg"
+			],
+			[
+				"anima",
+				"sass/app/base/_animations.scss"
+			],
+			[
+				"try-",
+				"pages/PT/contact/try-demo.hbs"
+			],
+			[
+				"call",
+				"templates/partials/CalltoAction.hbs"
+			],
+			[
+				"viewnot",
+				"sass/app/views/_features-notifications.scss"
+			],
+			[
+				"notifi",
+				"pages/PT/features/notifications.hbs"
+			],
+			[
+				"header",
+				"templates/partials/Header.hbs"
+			],
+			[
+				"animati",
+				"sass/app/base/_animations.scss"
+			],
+			[
+				"templ",
+				"templates/partials/Footer.hbs"
+			],
+			[
+				"templa",
+				"templates/layouts/default.hbs"
+			],
+			[
+				"repor",
+				"pages/PT/features/reports.hbs"
+			],
+			[
+				"featuresme",
+				"pages/PT/features/measurement.hbs"
+			],
+			[
+				"buffer",
+				"sass/_buffer.scss"
+			],
+			[
+				"mobili",
+				"pages/PT/features/mobility.hbs"
+			],
+			[
+				"report",
+				"pages/PT/features/reports.hbs"
+			],
+			[
+				"control",
+				"pages/PT/features/control.hbs"
+			],
+			[
+				"buff",
+				"sass/_buffer.scss"
+			],
+			[
+				"grun",
+				"Gruntfile.js"
+			],
+			[
+				"forms",
+				"sass/app/components/_Form.scss"
+			],
+			[
+				"form",
+				"sass/app/base/_forms.scss"
+			],
+			[
+				"icons",
+				"sass/app/components/icons/_icons.scss"
+			],
+			[
+				"space",
+				"sass/moo/objects/_space.scss"
+			],
+			[
+				"apptypo",
+				"sass/app/base/_typography.scss"
+			],
+			[
+				"lay",
+				"sass/moo/objects/_layout.scss"
+			],
+			[
+				"pan",
+				"sass/app/components/_Panel.scss"
+			],
+			[
+				"typo",
+				"sass/app/base/_typography.scss"
+			],
+			[
+				"measur",
+				"pages/features/measurement.hbs"
+			],
+			[
+				"nav",
+				"sass/app/components/_Nav.scss"
+			],
+			[
+				"moodispla",
+				"sass/moo/objects/_display.scss"
+			],
+			[
+				"hea",
+				"sass/app/components/_Header.scss"
+			],
+			[
+				"moolay",
+				"sass/moo/objects/_layout.scss"
+			],
+			[
+				"button",
+				"sass/app/components/_Buttons.scss"
+			],
+			[
+				"mai",
+				"sass/main.scss"
+			],
+			[
+				"moo",
+				"sass/moo/objects/_display.scss"
+			],
+			[
+				"mobil",
+				"pages/features/mobility.hbs"
+			],
+			[
+				"view",
+				"sass/app/views/_features-measurement.scss"
+			],
+			[
+				"buffe",
+				"sass/_buffer.scss"
+			],
+			[
+				"sett",
+				"sass/_settings.scss"
+			],
+			[
+				"media",
+				"sass/app/components/_Media.scss"
+			],
+			[
+				"measu",
+				"pages/features/measurement.hbs"
+			],
+			[
+				"meas",
+				"pages/features/measurement.hbs"
+			],
+			[
+				"viewme",
+				"sass/app/views/_features-measurement.scss"
+			],
+			[
+				"viewshom",
+				"sass/app/views/_home.scss"
+			],
+			[
+				"figure",
+				"sass/app/components/_Figure.scss"
+			],
+			[
+				"buf",
+				"sass/_buffer.scss"
+			],
+			[
+				"repo",
+				"pages/features/reports.hbs"
+			],
+			[
+				"features-contr",
+				"sass/app/views/_features-control.scss"
+			],
+			[
+				"pagesconro",
+				"pages/features/control.hbs"
+			],
+			[
+				"viewshome",
+				"sass/app/views/_home.scss"
+			],
+			[
+				"bow",
+				"bower.json"
+			],
+			[
+				"ap",
+				"js/app.js"
+			],
+			[
+				"mobility",
+				"sass/app/views/_features-mobility.scss"
+			],
+			[
+				"setti",
+				"sass/_settings.scss"
+			],
+			[
+				"mootyp",
+				"sass/moo/base/_typography.scss"
+			],
+			[
+				"bour",
+				"sass/vendor/libs/bourbon/_bourbon.scss"
+			],
+			[
+				"partia",
+				"templates/partials/CalltoAction.hbs"
+			],
+			[
+				"partial",
+				"templates/partials/Footer.hbs"
+			],
+			[
+				"appty",
+				"sass/app/base/_typography.scss"
+			],
+			[
+				"template",
+				"templates/layouts/default.hbs"
+			],
+			[
+				"partials",
+				"templates/partials/Header.hbs"
+			],
+			[
+				"notific",
+				"pages/features/notifications.hbs"
+			],
+			[
+				"viewruel",
+				"sass/app/views/_features-rules.scss"
+			],
+			[
+				"",
+				"sass/main.scss"
+			],
+			[
+				"fe",
+				"sass/app/views/_features.scss"
+			],
+			[
+				"bourbon",
+				"sass/vendor/libs/bourbon/_bourbon.scss"
+			],
+			[
+				"defau",
+				"templates/layouts/default.hbs"
+			],
+			[
+				"setting",
+				"sass/_settings.scss"
+			],
+			[
+				"settin",
+				"sass/_settings.scss"
+			],
+			[
+				"set",
+				"sass/_settings.scss"
+			],
+			[
+				"featu",
+				"sass/app/views/_features.scss"
+			],
+			[
+				"parti",
+				"templates/partials/Header.hbs"
+			],
+			[
+				"pages",
+				"pages/index.hbs"
+			],
+			[
+				"inde",
+				"pages/index.hbs"
+			],
+			[
+				"ic",
+				"sass/app/components/icons/_icons.scss"
+			],
+			[
+				"butto",
+				"sass/app/components/_Buttons.scss"
+			],
+			[
+				"foot",
+				"sass/app/components/_Footer.scss"
+			],
+			[
+				"heade",
+				"sass/app/components/_Header.scss"
+			],
+			[
+				"grid",
+				"sass/moo/objects/_grid.scss"
+			],
+			[
+				"pag",
+				"sass/app/components/_Page.scss"
+			],
+			[
+				"typr",
+				"sass/app/base/_typography.scss"
+			],
+			[
+				"pagesin",
+				"pages/index.hbs"
+			],
+			[
+				"typ",
+				"sass/moo/base/_typography.scss"
+			],
+			[
+				"gurn",
+				"Gruntfile.js"
+			],
+			[
+				"c-wd",
+				"styleguide/pages/components/c-Widget.hbs"
+			],
+			[
+				"c-list",
+				"styleguide/pages/components/c-Lists.hbs"
+			],
+			[
+				"sys",
+				"sass/system.scss"
+			],
+			[
+				"entityadd",
+				"views/app/entity/addresses/add.php"
+			],
+			[
+				"systemse",
+				"sass/appSystem/_settings.scss"
+			],
+			[
+				"systemsetting",
+				"sass/appSystem/_settings.scss"
+			],
+			[
+				"c-ico",
+				"styleguide/pages/components/c-Icons.hbs"
+			],
+			[
+				"c-devi",
+				"styleguide/pages/components/c-DeviceComponents.hbs"
+			],
+			[
+				"systembuff",
+				"sass/appSystem/_buffer.scss"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/Sites/idomlive/themes/idomlive_desktop/idomlive-desktop.sublime-project"
+			],
+			[
+				"idom",
+				"~/Sites/idomlive/themes/idomlive_desktop/idomlive-desktop.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 55.0,
+		"selected_items":
+		[
+			[
+				"base-",
+				"base-index"
+			],
+			[
+				"sectio",
+				"Nav--sectionNav"
+			],
+			[
+				"view-Features-Reports",
+				"VIEW-FEATURES-REPORTS"
+			],
+			[
+				"view-Features-Control",
+				"VIEW-FEATURES-CONTROL"
+			],
+			[
+				"nav-seq",
+				"Nav--sequential"
+			],
+			[
+				"view-fe",
+				"VIEW-FEATURES-CONTROL"
+			],
+			[
+				"view",
+				"VIEW-FEATURES"
+			],
+			[
+				"feature",
+				"featuresIntro"
+			],
+			[
+				"nav-opt",
+				"Nav-option"
+			],
+			[
+				"NavOpt",
+				"Nav-option"
+			],
+			[
+				"u-te",
+				"u-textRight"
+			],
+			[
+				"form-row",
+				"Form-row--submit"
+			],
+			[
+				"view-Features-Notifications",
+				"view-Features-Notifications"
+			],
+			[
+				"view-Features-Measurement",
+				"VIEW-FEATURES-MEASUREMENT"
+			],
+			[
+				"Section-content",
+				"Section-content"
+			],
+			[
+				"button--s",
+				"Button--simple"
+			],
+			[
+				"section--",
+				"Section--main"
+			],
+			[
+				"view-Features-Rules",
+				"VIEW-FEATURES-RULES"
+			],
+			[
+				"view-FEatur",
+				"VIEW-FEATURES-CONTROL"
+			],
+			[
+				"conector",
+				"conector"
+			],
+			[
+				"conect",
+				"conector"
+			],
+			[
+				"panel--02",
+				"Panel--02a"
+			],
+			[
+				"featuresIntro",
+				"featuresIntro"
+			],
+			[
+				"Figure--",
+				"Figure--measurement"
+			],
+			[
+				"Panel",
+				"PANEL"
+			],
+			[
+				"Page-header",
+				"Page-header"
+			],
+			[
+				"w",
+				"w10"
+			],
+			[
+				"app set",
+				"$APP SETTINGS - DEFAULTS"
+			],
+			[
+				"texta",
+				"textarea"
+			],
+			[
+				"Form-ro",
+				"Form-row"
+			],
+			[
+				"u-text",
+				"u-textH2"
+			],
+			[
+				"features",
+				"featuresIntro"
+			],
+			[
+				"panel--fo",
+				"Panel--fotoBg"
+			],
+			[
+				"Call",
+				"CALLTOACTION"
+			],
+			[
+				"section",
+				"Section--main"
+			],
+			[
+				"page-hea",
+				"Page-header"
+			],
+			[
+				"Nav--sequential",
+				"Nav--sequential"
+			],
+			[
+				"PageHeader",
+				"Page-header"
+			],
+			[
+				"Page-out",
+				"Page-outerContainer"
+			],
+			[
+				"view-home",
+				"VIEW-HOME"
+			],
+			[
+				"outerCo",
+				"Page-outerContainer"
+			],
+			[
+				"Heade",
+				"HEADER"
+			],
+			[
+				"featur",
+				"featureHighlights"
+			],
+			[
+				"u-textH",
+				"u-textH1"
+			],
+			[
+				"picto-if",
+				"Picto-info"
+			],
+			[
+				"Nav-",
+				"Nav--sequential"
+			],
+			[
+				"owl-pre",
+				"owl-prev"
+			],
+			[
+				"section--ma",
+				"Section--main"
+			],
+			[
+				"Section--",
+				"Section--main"
+			],
+			[
+				"do-an",
+				"do-animation:nth-child"
+			],
+			[
+				"fadeIn",
+				"fadeInUp"
+			],
+			[
+				"Section",
+				"SECTION"
+			],
+			[
+				"Picto-i",
+				"Picto-info"
+			],
+			[
+				"Sect",
+				"Section"
+			],
+			[
+				"Panel-item",
+				"Panel-item"
+			],
+			[
+				"featu",
+				"featureHighlights"
+			],
+			[
+				"Header",
+				"HEADER"
+			],
+			[
+				"conec",
+				"conector"
+			],
+			[
+				"conecto",
+				"conector"
+			],
+			[
+				"panel--foto",
+				"Panel--fotoBg"
+			],
+			[
+				"featureHig",
+				"featureHighlights"
+			],
+			[
+				"Page",
+				"PAGE"
+			],
+			[
+				"panel-he",
+				"Panel-header"
+			],
+			[
+				"Panel--ta",
+				"Panel--tabbed"
+			],
+			[
+				"Picto",
+				"Picto-img"
+			],
+			[
+				"Panel-header",
+				"Panel-header"
+			],
+			[
+				"Figure-caption",
+				"Figure-caption"
+			],
+			[
+				"PageI",
+				"Page-intro"
+			],
+			[
+				"Pan",
+				"PANEL"
+			],
+			[
+				"CalltoAction",
+				"CALLTOACTION"
+			],
+			[
+				"Panel--fotoBg",
+				"Panel--fotoBg"
+			],
+			[
+				"Figure",
+				"FIGURE"
+			],
+			[
+				"view-",
+				"VIEW-HOME"
+			],
+			[
+				"Secto",
+				"SECTION"
+			],
+			[
+				"u-marg",
+				"u-marginTm"
+			],
+			[
+				"u-marginT",
+				"u-marginTm"
+			],
+			[
+				"SectionHea",
+				"Section-header"
+			],
+			[
+				"Page-intro",
+				"Page-intro"
+			],
+			[
+				"pic",
+				"FEATURE-PICTO"
+			],
+			[
+				"Sectio",
+				"SECTION"
+			],
+			[
+				"featureHighlights",
+				"featureHighlights"
+			],
+			[
+				"Footer-header",
+				"Footer-header"
+			],
+			[
+				"Nav",
+				"NAV"
+			],
+			[
+				"WideSection",
+				"WideSection"
+			],
+			[
+				"page",
+				"PAGE"
+			],
+			[
+				"Widget-w",
+				"$WIDGET-WEATHER"
+			],
+			[
+				"emptyList",
+				"emptyList"
+			],
+			[
+				"gridSelector",
+				"GRIDSELECTOR"
+			],
+			[
+				"ui-auto",
+				"ui-autocomplete"
+			],
+			[
+				"Info",
+				"InfoBox"
+			],
+			[
+				"",
+				"Button--primaryAction"
+			],
+			[
+				"Scree",
+				"$SCREENOPTIONS"
+			],
+			[
+				"Widget-weather",
+				"$WIDGET-WEATHER"
+			],
+			[
+				"PAgenav",
+				"PageNav-pages"
+			],
+			[
+				"chart-li",
+				"chart-line"
+			],
+			[
+				"Content",
+				"ContentGroup"
+			],
+			[
+				"u-ma",
+				"u-marginLm"
+			],
+			[
+				"date",
+				"ui-datepicker"
+			],
+			[
+				"empt",
+				"emptyList"
+			],
+			[
+				"m-loginHelpers",
+				"m-loginHelpers"
+			],
+			[
+				"PageNav-pages",
+				"PageNav-pages"
+			],
+			[
+				"PageNav--dark",
+				"PageNav--dark"
+			],
+			[
+				"PAgen",
+				"PAGENAV"
+			],
+			[
+				"InlineToggle",
+				"$INLINETOGGLE"
+			],
+			[
+				"u-tex",
+				"u-textCenter"
+			],
+			[
+				"drop-a",
+				"drop-area"
+			],
+			[
+				"disab",
+				"disable-hover"
+			],
+			[
+				"ContentGr",
+				"ContentGroup"
+			],
+			[
+				"listOptions__tabs",
+				"listOptions__tabs"
+			],
+			[
+				"listOptions__selectDashboard",
+				"InputAppend.listOptions__selectDashboard"
+			],
+			[
+				"listOptions",
+				"$LISTOPTIONS"
+			],
+			[
+				"FormRow",
+				"FormRow--inline"
+			],
+			[
+				"Button--dar",
+				"Button--dark"
+			],
+			[
+				"over",
+				"overlaid &"
+			],
+			[
+				"highlightedRow",
+				"highlightedRow"
+			],
+			[
+				"Tabs--",
+				"Tabs--dark"
+			],
+			[
+				"Data",
+				"DataList-item"
+			],
+			[
+				"detail",
+				"detailHeader"
+			],
+			[
+				"NavHeder",
+				"NavHeader-nav"
+			],
+			[
+				"NavHeader-na",
+				"NavHeader-nav"
+			],
+			[
+				"modal-head",
+				"modal-header"
+			],
+			[
+				"modal-body--tabbed",
+				"modal-body--tabbed"
+			],
+			[
+				"Widget--text",
+				"$WIDGET--TEXT"
+			],
+			[
+				"DetailV",
+				"$DETAILVIEW"
+			],
+			[
+				"idl-toggleWidgetPanel",
+				"idl-toggleWidgetPanel"
+			],
+			[
+				"Widget-opto",
+				"Widget-options"
+			],
+			[
+				"drag-hol",
+				"drag-holder"
+			],
+			[
+				"flex-disabled",
+				"&flex-disabled"
+			]
+		],
+		"width": 480.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 254.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

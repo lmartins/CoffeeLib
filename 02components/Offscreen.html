@@ -1,0 +1,248 @@
+<!doctype html>
+<html lang="en" class="noJS">
+<head>
+  <meta charset="UTF-8">
+  <title>Offscreen Detection</title>
+  <link rel="stylesheet" href="../build/css/main.css" />
+  <link rel="stylesheet" href="../build/css/Slider.css" />
+  <style type="text/css" media="screen">
+    .Page{
+      width: 100%;
+    }
+    .item{
+    	float: left;
+    	width: 23%;
+    	height: 200px;
+    	margin: 1%;
+    	position: relative;
+    	background: #eee;
+    }
+
+    .tooltip{
+    	color: #fff;
+    	line-height: 50px;
+    	text-align: center;
+    	position: absolute;
+    	right: 1em;
+    	top: 1em;
+    	width: 50px;
+    	height: 50px;
+    	background: #000;
+    }
+
+    .tooltip:hover .tooltip__content{
+    	visibility: visible;
+    }
+
+    .tooltip__content{
+    	border: 1px solid rgba(0,0,0,.2);
+    	line-height: 1.55em;
+    	text-align: left;
+    	color: #000;
+    	width: 300px;
+    	visibility: hidden;
+    	position: absolute;
+    	top: 49px;
+    	left: 50%;
+    	margin-left: -150px;
+    	background: #fff;
+    	padding: 2em;
+    	z-index: 2;
+    }
+
+    .tooltip__content.right-edge{
+    	left: -100px !important; /* has the upper hand compared the left side */
+    }
+
+    .tooltip__content.bottom-edge{
+      top: auto;
+      bottom: 100%;
+    }
+
+    .tooltip__content.left-edge{
+    	left: 150px;
+    }
+  </style>
+
+</head>
+<body>
+
+  <div class="Page">
+    <h1>Offscreen Detection</h1>
+    <!-- tooltip item -->
+    <div class="item">
+      <div class="tooltip"> hover
+        <div class="tooltip__content">
+          <h3>Tooltip</h3>
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- tooltip item -->
+    <div class="item">
+      <div class="tooltip"> hover
+        <div class="tooltip__content">
+          <h3>Tooltip</h3>
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- tooltip item -->
+    <div class="item">
+      <div class="tooltip"> hover
+        <div class="tooltip__content">
+          <h3>Tooltip</h3>
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- tooltip item -->
+    <div class="item">
+      <div class="tooltip"> hover
+        <div class="tooltip__content">
+          <h3>Tooltip</h3>
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- tooltip item -->
+    <div class="item">
+      <div class="tooltip"> hover
+        <div class="tooltip__content">
+          <h3>Tooltip</h3>
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- tooltip item -->
+    <div class="item">
+      <div class="tooltip"> hover
+        <div class="tooltip__content">
+          <h3>Tooltip</h3>
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- tooltip item -->
+    <div class="item">
+      <div class="tooltip"> hover
+        <div class="tooltip__content">
+          <h3>Tooltip</h3>
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- tooltip item -->
+    <div class="item">
+      <div class="tooltip"> hover
+        <div class="tooltip__content">
+          <h3>Tooltip</h3>
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- tooltip item -->
+    <div class="item">
+      <div class="tooltip"> hover
+        <div class="tooltip__content">
+          <h3>Tooltip</h3>
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- tooltip item -->
+    <div class="item">
+      <div class="tooltip"> hover
+        <div class="tooltip__content">
+          <h3>Tooltip</h3>
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- tooltip item -->
+    <div class="item">
+      <div class="tooltip"> hover
+        <div class="tooltip__content">
+          <h3>Tooltip</h3>
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- tooltip item -->
+    <div class="item">
+      <div class="tooltip"> hover
+        <div class="tooltip__content">
+          <h3>Tooltip</h3>
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- tooltip item -->
+    <div class="item">
+      <div class="tooltip"> hover
+        <div class="tooltip__content">
+          <h3>Tooltip</h3>
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- tooltip item -->
+    <div class="item">
+      <div class="tooltip"> hover
+        <div class="tooltip__content">
+          <h3>Tooltip</h3>
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- tooltip item -->
+    <div class="item">
+      <div class="tooltip"> hover
+        <div class="tooltip__content">
+          <h3>Tooltip</h3>
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- tooltip item -->
+    <div class="item">
+      <div class="tooltip"> hover
+        <div class="tooltip__content">
+          <h3>Tooltip</h3>
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="../build/vendor/jquery.min.js"></script>
+  <script src="../build/js/03utilities/debounce.js"></script>
+  <script src="../build/js/01components/offscreen.js"></script>
+
+  <script type="text/javascript" charset="utf-8">
+    $( document ).ready(function() {
+      $('.tooltip__content').offscreen({
+        smartResize: true,
+        rightClass: 'right-edge',
+        leftClass: 'left-edge'
+      });
+    });
+  </script>
+
+</body>
+</html>

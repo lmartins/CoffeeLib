@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en" class="noJS">
+<head>
+  <meta charset="UTF-8">
+  <title>Lesson 19 - Handlebars</title>
+  <link rel="stylesheet" href="../build/css/main.css" />
+
+</head>
+<body>
+
+  <div class="Page">
+    <article>
+      <h1>Lesson 19 - Handlebars</h1>
+      <div class="content">
+        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum socs natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p>
+        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum socs natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p>
+
+        <div id="articlesList">
+
+        </div>
+        <button id="moreBtn">More</button>
+      </div>
+    </article>
+
+    <ul class="tweets">
+      <script id="template" type="text/x-handlebars-template">
+        {{#each this}}
+        <li>
+          <h2>{{fullName author}}</h2>
+          <p>{{{tweet}}}</p>
+          {{#if quote}}
+            <small>{{quote}}</small>
+          {{else}}
+            <small>Author does not have a quote</small>
+          {{/if}}
+        </li>
+        {{/each}}
+      </script>
+    </ul>
+  </div>
+
+  <script src="../build/vendor/jquery.min.js"></script>
+  <script src="../build/js/01patterns/module02.js"></script>
+
+</body>
+</html>

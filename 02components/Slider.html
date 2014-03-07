@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en" class="noJS">
+<head>
+  <meta charset="UTF-8">
+  <title>Slider</title>
+  <link rel="stylesheet" href="../build/css/main.css" />
+  <link rel="stylesheet" href="../build/css/Slider.css" />
+
+</head>
+<body>
+
+  <div class="Page">
+    <article>
+      <h1>Slider</h1>
+      <div class="content">
+        <div class="slider">
+          <ul class="slides">
+            <li class="slide">
+              1
+            </li>
+            <li class="slide">
+              2
+            </li>
+            <li class="slide">
+              3
+            </li>
+          </ul>
+        </div>
+        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum socs natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p>
+        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum socs natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p>
+      </div>
+    </article>
+  </div>
+
+  <script src="../build/vendor/jquery.min.js"></script>
+  <script src="../build/js/01components/slider.js"></script>
+  <script>
+      $('.slider').glide({
+        circular: false,
+        autoplay: false,
+        nav: 'body'
+      });
+  </script>
+
+</body>
+</html>

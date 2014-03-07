@@ -1,0 +1,1 @@
+#myFeature {overflow:hidden;display:table;border:1px solid #ccc;}#myFeature ul {list-style:none;margin:0;}#myFeature>ul ,#myFeature>p {display:table-cell;padding:1em;border-right:1px solid #ccc;}#myFeature .current {font-weight:bold;}
