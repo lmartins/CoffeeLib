@@ -26,6 +26,8 @@ Based on https://github.com/gijsroge/offscreen.js
 
         if height + top > windowHeight
           self.addClass defaults.bottomClass
+        else
+          self.removeClass defaults.bottomClass
 
         if windowWidth < (left + width)
           self.addClass defaults.rightClass
@@ -42,9 +44,8 @@ Based on https://github.com/gijsroge/offscreen.js
     if defaults.smartResize
 
       $(window).on 'resize', debounce((e) ->
+        console.log "resized"
         offscreenInitiate()
       , 150, false)
-
-
 
 )(jQuery)

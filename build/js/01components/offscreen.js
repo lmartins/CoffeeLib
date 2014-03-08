@@ -26,6 +26,8 @@ Based on https://github.com/gijsroge/offscreen.js
         height = self.outerHeight();
         if (height + top > windowHeight) {
           self.addClass(defaults.bottomClass);
+        } else {
+          self.removeClass(defaults.bottomClass);
         }
         if (windowWidth < (left + width)) {
           self.addClass(defaults.rightClass);
@@ -42,6 +44,7 @@ Based on https://github.com/gijsroge/offscreen.js
     offscreenInitiate();
     if (defaults.smartResize) {
       return $(window).on('resize', debounce(function(e) {
+        console.log("resized");
         return offscreenInitiate();
       }, 150, false));
     }
