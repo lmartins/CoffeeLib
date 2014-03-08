@@ -1,25 +1,4 @@
-var Module, ModuleTwo, mw;
-
-Module = (function() {
-  var publicAPI, publicMethod, _privateMethod;
-  _privateMethod = function() {
-    return console.log("Some text from the private method, called from the public method");
-  };
-  publicMethod = function() {
-    console.log("something from the public method");
-    return _privateMethod();
-  };
-  return publicAPI = {
-    publicMethod: publicMethod
-  };
-})();
-
-ModuleTwo = (function(Module) {
-  Module.extension = function() {
-    return console.log("Text from the extension Module");
-  };
-  return Module;
-})(Module || {});
+var mw;
 
 mw = (function(mw) {
   var myFeature;
