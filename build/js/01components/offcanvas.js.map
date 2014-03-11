@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "offcanvas.js",
+  "sourceRoot": "",
+  "sources": [
+    "offcanvas.coffee"
+  ],
+  "names": [],
+  "mappings": "AAAA;AAAA;;;GAAA;AAAA,IAAA,EAAA;;AAAA,EAIA,GAAK,CAAC,SAAC,EAAD,GAAA;SAEJ,EAAE,CAAC,MAAH,GAAY,SAAC,OAAD,GAAA;AACV,QAAA,IAAA;WAAA,IAAA,GAAO,CAAC,CAAC,OADC;EAAA,EAFR;AAAA,CAAD,CAAA,CAWH,EAAA,IAAM,EAXH,CAJL,CAAA"
+}

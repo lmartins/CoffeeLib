@@ -11,7 +11,6 @@ var gulp = require('gulp'),
     changed    = require('gulp-changed'),
     uglify     = require('gulp-uglify'),
     imagemin   = require('gulp-imagemin'),
-
     livereload = require('gulp-livereload'),
     notify     = require('gulp-notify');
 
@@ -60,6 +59,8 @@ gulp.task('sass', function() {
 gulp.task('coffee', function () {
   gulp.src( options.COFFEE_SOURCE )
     .pipe(changed( options.COFFEE_BUILD, {extension: '.js'} ))
+    .pipe(coffeelint())
+    .pipe(coffeelint.reporter())
     .pipe(coffee({
       bare: true,
       sourceMap: true
@@ -67,14 +68,6 @@ gulp.task('coffee', function () {
     .on('error', gutil.log))
     .pipe(gulp.dest( options.COFFEE_BUILD ))
     .pipe(livereload());
-});
-
-
-gulp.task('lint', function () {
-  gulp.src( options.COFFEE_SOURCE )
-    .pipe(changed( options.COFFEE_BUILD ))
-    .pipe(coffeelint())
-    .pipe(coffeelint.reporter())
 });
 
 
@@ -112,7 +105,7 @@ gulp.task('bower', [ 'bowerCopy', 'bowerMerge' ]);
 gulp.task('watch', function () {
   // server = livereload();
   gulp.watch(options.HTML_SOURCE, ['html']);
-  gulp.watch(options.COFFEE_SOURCE, ['coffee', 'lint']);
+  gulp.watch(options.COFFEE_SOURCE, ['coffee']);
   // gulp.watch(options.IMAGE_SOURCE, ['images']);
   gulp.watch(options.SASS_SOURCE, ['sass']  );
 
