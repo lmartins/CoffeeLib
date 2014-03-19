@@ -15,16 +15,20 @@ var gulp = require('gulp'),
     notify     = require('gulp-notify');
 
 var options = {
+
+  coffee: {
+    src: ["src/coffee/**/*.coffee"],
+    build: "build/css/"
+  },
+
   // HTML
   HTML_SOURCE     : ['*.html', '01patterns/*.html'],
 
   // SASS / CSS
-  SASS_SOURCE     : "src/sass/**/*.scss",
-  SASS_BUILD      : "build/css/",
-
-  // JavaScript
-  COFFEE_SOURCE   : "src/coffee/**/*.coffee",
-  COFFEE_BUILD    : "build/js/",
+  sass: {
+    src: "src/sass/**/*.scss",
+    build: "build/css/"
+  },
 
   // Images
   IMAGE_SOURCE    : "src/images/**/*",
@@ -38,10 +42,15 @@ var options = {
   LIVE_RELOAD_PORT: 35729
 }
 
+var server;
+
+gulp.task('livereload', function() {
+  server = livereload();
+});
 
 // Compile Our Sass
 gulp.task('sass', function() {
-  gulp.src(options.SASS_SOURCE)
+  gulp.src( options.sass.src )
     .pipe(plumber())
     .pipe(sass({
       outputStyle: 'compressed'
@@ -51,25 +60,28 @@ gulp.task('sass', function() {
       console.log("Error:", err);
     })
     .pipe(prefix( "last 1 version" ))
-    .pipe(gulp.dest(options.SASS_BUILD))
+    .pipe(gulp.dest( options.sass.build ))
     .pipe(livereload());
 });
 
 // Compile Our Coffee
 gulp.task('coffee', function () {
-  gulp.src( options.COFFEE_SOURCE )
-    .pipe(changed( options.COFFEE_BUILD, {extension: '.js'} ))
-    .pipe(coffeelint())
-    .pipe(coffeelint.reporter())
+  gulp.src( options.coffee.src )
+    .pipe(changed( options.coffee.build , {extension: '.js'} ))
     .pipe(coffee({
       bare: true,
       sourceMap: true
       })
     .on('error', gutil.log))
-    .pipe(gulp.dest( options.COFFEE_BUILD ))
+    .pipe(gulp.dest( options.coffee.build ))
     .pipe(livereload());
 });
 
+gulp.task('lint', function(){
+  gulp.src( options.coffee.src )
+    .pipe(coffeelint())
+    .pipe(coffeelint.reporter());
+});
 
 gulp.task('html', function () {
   gulp.src( options.HTML_SOURCE )
@@ -103,17 +115,10 @@ gulp.task('default', function(){
 gulp.task('bower', [ 'bowerCopy', 'bowerMerge' ]);
 
 gulp.task('watch', function () {
-  // server = livereload();
-  gulp.watch(options.HTML_SOURCE, ['html']);
-  gulp.watch(options.COFFEE_SOURCE, ['coffee']);
-  // gulp.watch(options.IMAGE_SOURCE, ['images']);
-  gulp.watch(options.SASS_SOURCE, ['sass']  );
 
-  // server.listen( options.LIVE_RELOAD_PORT , function (err) {
-  //   if (err) return console.log(err);
-  //   gulp.watch(options.HTML_SOURCE, ['html']);
-  //   gulp.watch(options.COFFEE_SOURCE, ['coffee','lint']);
-  //   // gulp.watch(options.IMAGE_SOURCE, ['images']);
-  //   gulp.watch(options.SASS_SOURCE, ['sass']  );
-  // });
+gulp.watch(options.HTML_SOURCE, ['html']);
+  gulp.watch( options.coffee.src , ['coffee', 'lint']);
+  // gulp.watch(options.IMAGE_SOURCE, ['images']);
+  gulp.watch( options.sass.src , ['sass']  );
+
 });
