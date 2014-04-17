@@ -18,7 +18,7 @@ var options = {
 
   coffee: {
     src: ["src/coffee/**/*.coffee"],
-    build: "build/css/"
+    build: "build/js/"
   },
 
   // HTML
