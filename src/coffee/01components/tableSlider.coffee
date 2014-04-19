@@ -3,36 +3,46 @@ class TableSlider
 
   constructor: (@elem) ->
     @init()
+    # @updateContents()
 
   init: ->
+    @elContent = @elem
+    @elContainer = @elContent.parentNode
 
-    elContent = @elem
-    elContainer = elContent.parentNode
-    elContainerWidth = elContainer.clientWidth
-    elContentWidth = elContent.clientWidth
-
-    origHTML = elContainer.innerHTML
+    origHTML = @elContainer.innerHTML
     newHTML = "<div class='TableSlider-wrapSlider'>#{origHTML}</div>"
-    elContainer.innerHTML = newHTML
-    elScroller = elContainer.querySelector '.TableSlider-wrapSlider'
+    @elContainer.innerHTML = newHTML
+    @elScroller = @elContainer.querySelector '.TableSlider-wrapSlider'
+
+    # TODO: debounce
+    @elScroller.addEventListener 'scroll', @updateContents
+    @elScroller.addEventListener 'update', @updateContents
+
+    return
+
+  updateContents: ->
+    # This context is the element being scrolled
+    currentPos = this.scrollLeft
+    elParent = this.parentNode
+    elContainerWidth = this.clientWidth
+    elContentWidth = this.querySelector('table').clientWidth
 
     # Checks if content overflows it's container
     if elContentWidth > elContainerWidth
-      elContainer.classList.add 'overflowRight'
+      elParent.classList.add 'overflowRight'
 
-    elScroller.addEventListener 'scroll', (e) ->
-      currentPos = @scrollLeft
-      if currentPos > 20
-        elContainer.classList.add 'overflowLeft'
-      else
-        elContainer.classList.remove 'overflowLeft'
+    # Checks if content is scrolled to the right
+    if currentPos > 20
+      elParent.classList.add 'overflowLeft'
+    else
+      elParent.classList.remove 'overflowLeft'
 
-      if elContentWidth - currentPos - 20 < elContainerWidth
-        elContainer.classList.remove 'overflowRight'
-      else
-        elContainer.classList.add 'overflowRight'
+    # Checks if the content is scrolled almost to the right limit
+    if elContentWidth - currentPos - 20 < elContainerWidth
+      elParent.classList.remove 'overflowRight'
+    else
+      elParent.classList.add 'overflowRight'
 
-    return
 
 
 
@@ -43,3 +53,12 @@ class TableSlider
 tableSliders = document.querySelectorAll '.slideTable'
 Array::forEach.call tableSliders, (el, i) ->
   slider = new TableSlider el
+
+
+event = new CustomEvent 'update'
+myEl = document.querySelectorAll '.TableSlider-wrapSlider'
+for el in myEl
+  el.dispatchEvent event
+
+# event2 = new CustomEvent 'init'
+# myEl.dispatchEvent event2

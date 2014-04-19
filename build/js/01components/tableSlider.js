@@ -1,4 +1,4 @@
-var TableSlider, tableSliders;
+var TableSlider, el, event, myEl, tableSliders, _i, _len;
 
 TableSlider = (function() {
   function TableSlider(elem) {
@@ -7,32 +7,36 @@ TableSlider = (function() {
   }
 
   TableSlider.prototype.init = function() {
-    var elContainer, elContainerWidth, elContent, elContentWidth, elScroller, newHTML, origHTML;
-    elContent = this.elem;
-    elContainer = elContent.parentNode;
-    elContainerWidth = elContainer.clientWidth;
-    elContentWidth = elContent.clientWidth;
-    origHTML = elContainer.innerHTML;
+    var newHTML, origHTML;
+    this.elContent = this.elem;
+    this.elContainer = this.elContent.parentNode;
+    origHTML = this.elContainer.innerHTML;
     newHTML = "<div class='TableSlider-wrapSlider'>" + origHTML + "</div>";
-    elContainer.innerHTML = newHTML;
-    elScroller = elContainer.querySelector('.TableSlider-wrapSlider');
+    this.elContainer.innerHTML = newHTML;
+    this.elScroller = this.elContainer.querySelector('.TableSlider-wrapSlider');
+    this.elScroller.addEventListener('scroll', this.updateContents);
+    this.elScroller.addEventListener('update', this.updateContents);
+  };
+
+  TableSlider.prototype.updateContents = function() {
+    var currentPos, elContainerWidth, elContentWidth, elParent;
+    currentPos = this.scrollLeft;
+    elParent = this.parentNode;
+    elContainerWidth = this.clientWidth;
+    elContentWidth = this.querySelector('table').clientWidth;
     if (elContentWidth > elContainerWidth) {
-      elContainer.classList.add('overflowRight');
+      elParent.classList.add('overflowRight');
     }
-    elScroller.addEventListener('scroll', function(e) {
-      var currentPos;
-      currentPos = this.scrollLeft;
-      if (currentPos > 20) {
-        elContainer.classList.add('overflowLeft');
-      } else {
-        elContainer.classList.remove('overflowLeft');
-      }
-      if (elContentWidth - currentPos - 20 < elContainerWidth) {
-        return elContainer.classList.remove('overflowRight');
-      } else {
-        return elContainer.classList.add('overflowRight');
-      }
-    });
+    if (currentPos > 20) {
+      elParent.classList.add('overflowLeft');
+    } else {
+      elParent.classList.remove('overflowLeft');
+    }
+    if (elContentWidth - currentPos - 20 < elContainerWidth) {
+      return elParent.classList.remove('overflowRight');
+    } else {
+      return elParent.classList.add('overflowRight');
+    }
   };
 
   return TableSlider;
@@ -45,6 +49,15 @@ Array.prototype.forEach.call(tableSliders, function(el, i) {
   var slider;
   return slider = new TableSlider(el);
 });
+
+event = new CustomEvent('update');
+
+myEl = document.querySelectorAll('.TableSlider-wrapSlider');
+
+for (_i = 0, _len = myEl.length; _i < _len; _i++) {
+  el = myEl[_i];
+  el.dispatchEvent(event);
+}
 
 /*
 //# sourceMappingURL=tableSlider.js.map
