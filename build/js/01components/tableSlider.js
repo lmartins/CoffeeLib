@@ -1,4 +1,4 @@
-var TableSlider, el, event, myEl, tableSliders, _i, _len;
+var TableSlider;
 
 TableSlider = (function() {
   function TableSlider(elem) {
@@ -42,22 +42,6 @@ TableSlider = (function() {
   return TableSlider;
 
 })();
-
-tableSliders = document.querySelectorAll('.slideTable');
-
-Array.prototype.forEach.call(tableSliders, function(el, i) {
-  var slider;
-  return slider = new TableSlider(el);
-});
-
-event = new CustomEvent('update');
-
-myEl = document.querySelectorAll('.TableSlider-wrapSlider');
-
-for (_i = 0, _len = myEl.length; _i < _len; _i++) {
-  el = myEl[_i];
-  el.dispatchEvent(event);
-}
 
 /*
 //# sourceMappingURL=tableSlider.js.map

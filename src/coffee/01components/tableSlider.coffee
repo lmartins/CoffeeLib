@@ -50,15 +50,16 @@ class TableSlider
 # USAGE
 # Makes an array from the query selector
 # and applies the new constructor on each element
-tableSliders = document.querySelectorAll '.slideTable'
-Array::forEach.call tableSliders, (el, i) ->
-  slider = new TableSlider el
 
-
-event = new CustomEvent 'update'
-myEl = document.querySelectorAll '.TableSlider-wrapSlider'
-for el in myEl
-  el.dispatchEvent event
+# tableSliders = document.querySelectorAll '.slideTable'
+# Array::forEach.call tableSliders, (el, i) ->
+#   slider = new TableSlider el
+#
+# 
+# event = new CustomEvent 'update'
+# myEl = document.querySelectorAll '.TableSlider-wrapSlider'
+# for el in myEl
+#   el.dispatchEvent event
 
 # event2 = new CustomEvent 'init'
 # myEl.dispatchEvent event2
